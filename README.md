@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Romina (call me just Romi ~_~ )
 
-<!--
-**RomiHnd/RomiHnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer
+🌱 Currently learning React  
+🚀 Passionate about building fast, responsive web interfaces
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### 🔹 Frontend
+- HTML5 / CSS3 / Sass / SCSS
+- Bootstrap / TailwindCSS
+- JavaScript (Vanilla), jQuery
+- Git & GitHub
+
+### 🔹 Currently Learning
+- React (Hooks, Components, JSX)
+- UI-UX
+
+### 🔹 Also familiar with:
+- Python (basics)
+- C++ (basics)
+
+---
+
+## 📫 Contact Me
+
+📧 hamidnejadromina@gmail.com
+🌐 
+
