@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Romina (call me just Romi ~_~ )
+# 👋 Hi, I'm Romina
 
 💻 Frontend Developer
 🌱 Currently learning React  
